@@ -1,7 +1,7 @@
 Startpage
 ========
 
-A simeple startpage to meet my needs.
+A simple startpage to meet my needs.
 
 ![alt tag](Home.png "Startpage preview")
 
