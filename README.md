@@ -5,7 +5,7 @@ A simple startpage to meet my needs.
 
 ![alt tag](Home.png "Startpage preview")
 
-Based on [tayumpee's starpage 2.](//github.com/tayumpee/start_page2_firefox_and_chrome)
+Based on [tayumpee's starpage 2](//github.com/tayumpee/start_page2_firefox_and_chrome) inspired by [Vallodes](https://www.reddit.com/u/vallode/) tutorial.
 
 **Live Demo:** [Demo](http://ramenmaestro.github.io/startpage/)
 
@@ -15,6 +15,4 @@ Comments and suggestions appreciated.
 
 Disclaimer
 ----
-Images used in the sidebar are not original or created by me.
-
-*I was unable to find the artist(s) to credit.*
+Images used in the sidebar are by background artist [Waneella](https://twitter.com/waneella_).
