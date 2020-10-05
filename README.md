@@ -15,6 +15,7 @@ Don't hesitate to fork and modify to your liking.
 Updates:
 ----
 * Added searchbar *21/08/20*
+* Corrected Japanese - Thanks to [Silgrond](https://www.reddit.com/user/Silgrond) for correcting Hiragana *29/09/20*
 
 Possible future updates:
 ----
