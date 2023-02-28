@@ -5,7 +5,7 @@ A simple startpage to meet my needs.
 
 ![alt tag](Home.png "Startpage preview")
 
-**Live Demo:** [Demo](https://kierstro.github.io/startpage/)
+**Live Demo:** [Demo](https://kstr-0.github.io/startpage/)
 
 This repository contains a custom startpage made using HTML, CSS and a little Javascript. I'm not a web developer, this was a simple project I worked on to refresh my basic understanding of HTML and CSS.
 
